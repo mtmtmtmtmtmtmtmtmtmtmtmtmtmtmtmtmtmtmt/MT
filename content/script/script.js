@@ -46,7 +46,7 @@ function executeCommand(command) {
     }
     if (command === "accounts") {
       printLine(
-        '<a href="https://github.com/mtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmt">GitHub</a> | <a href="https://www.youtube.com/channel/UCev4LZl_QOEp1w_o49H4Ing">Youtube</a> | <a href="https://www.reddit.com/u/PleaseCallMeMT">Reddit (InActive)</a> | <a href="https://discord.com/users/1438538902574075995">Discord</a> | <a href="https://roblox.com/users/10172446993/profile">Roblox</a> | <a href="https://www.instagram.com/mtmtmtmtmtmtmtmtmtmtmtmtmtmt/">Instagram (Private)</a> | <a href="https://x.com/PleaseCallMeMT_">X</a> | <a href="https://osu.ppy.sh/users/38933390">Osu</a>'
+        '<a href="https://github.com/mtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmtmt">GitHub</a> | <a href="https://www.youtube.com/channel/UCev4LZl_QOEp1w_o49H4Ing">Youtube</a> | <a href="https://www.reddit.com/u/PleaseCallMeMT">Reddit (InActive)</a> | <a href="https://discord.com/users/1438538902574075995">Discord</a> | <a href="https://roblox.com/users/10172446993/profile">Roblox</a> | <a href="https://www.instagram.com/mtmtmtmtmtmtmtmtmtmtmtmtmtmt/">Instagram (Private)</a> | <a href="https://x.com/PleaseCallMeMT_">X</a> | <a href="https://steamcommunity.com/profiles/76561198757009638/">Steam</a> | <a href="https://osu.ppy.sh/users/38933390">Osu</a>'
       );
     }
     if (command === "about") {
