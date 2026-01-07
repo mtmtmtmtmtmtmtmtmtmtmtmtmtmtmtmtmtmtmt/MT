@@ -8,6 +8,7 @@ const commands = [
   "about",
   "about-mt",
   "x9qt", // secret command
+  "bee" // Easter Egg
 ];
 
 function printLine(text, isCommand = false) {
@@ -63,6 +64,9 @@ function executeCommand(command) {
       printLine(
         `<span style="color: #ff0000ff;">i was born disabled and i had to go through 20 surgeries to be able to walk.</span>`
       );
+    }
+    if (command === "bee") {
+      printLine("Shes beautiful beyond angels, numbers, or moments");
     }
   }
 }
